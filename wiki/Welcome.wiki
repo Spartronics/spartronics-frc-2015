@@ -1,0 +1,8 @@
+#summary Introduction to this wiki
+
+= Introduction =
+
+Welcome to the Spartronics FRC Robot code.
+Hopefully you've installed the [TSVN plugin]http://www.viewpointusa.com/product/ni-labview-toolkits/tsvn-toolkit/ and got that set up.
+
+_todo: add more stuff_
