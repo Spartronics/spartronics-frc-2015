@@ -1,0 +1,17 @@
+#summary One-sentence summary of this page.
+
+1. Make sure you've installed TortoiseSVN 1.8.x at http://tortoisesvn.net/downloads.html
+
+2. Download the VI Package Manager from http://jki.net/vipm/download (probably don't need an email)
+
+3. Download the TSVN Toolkit from http://sine.ni.com/nips/cds/view/p/lang/en/nid/211524 (need an NI account)
+
+4. In Windows Explorer navigate to where you want to store the project. C4reate a new folder.
+
+5. Right click on the folder and click TortoiseSVN > SVN Checkout
+
+6. In the box that comes up, type in https://spartronics-frc-2015.googlecode.com/svn/trunk/ as the source URL.
+
+6. When you're ready to commit, right click the files you want to upload and select TortoiseSVN > Add. Then select TortoiseSVN > Commit. Get your login info from https://code.google.com/hosting/settings.
+
+7. You should be set! Make sure when you're moving files around you do so from within LABview's interface via the TSVN Tools right-click submenu and not through Windows Explorer.
